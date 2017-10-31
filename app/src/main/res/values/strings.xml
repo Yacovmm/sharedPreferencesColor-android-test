@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PreferencesColorUser</string>
+    <string name="title_text">Choose a backgroud color</string>
+    <string name="cor_azul">Azul</string>
+    <string name="cor_laranja">Laranja</string>
+    <string name="cor_verde">Verde</string>
+    <string name="button_save">Save</string>
+</resources>
